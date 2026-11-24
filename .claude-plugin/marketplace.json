@@ -1,0 +1,5 @@
+{
+  "name": "hard-rock-concert",
+  "owner": { "name": "CrankyBuffalo" },
+  "plugins": [{ "name": "hard-rock-concert", "source": "./" }]
+}
